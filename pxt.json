@@ -5,7 +5,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-kitronik-game-controller": "github:kitronikltd/pxt-kitronik-game-controller#V0.0.4",
+        "pxt-nezha": "github:elecfreaks/pxt-nezha#v1.3.7"
     },
     "files": [
         "README.md",
